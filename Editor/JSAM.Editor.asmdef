@@ -1,0 +1,18 @@
+{
+    "name": "JSAM.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e25bd495d388c1940bf8ad91d0e2e875"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
